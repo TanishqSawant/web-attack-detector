@@ -130,3 +130,24 @@ Through this project I learned:
 - Streamlit Dashboard Development
 - Intrusion Detection Concepts
 - Cybersecurity Monitoring Workflows
+
+
+# Real-Time Web Intrusion Detection System
+
+## Dashboard Preview
+
+### Main Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+---
+
+### Attack Distribution
+
+![Attack Distribution](screenshots/Pie chart.png)
+
+---
+
+### Attack Timeline
+
+![Timeline](screenshots/Attack timeline.png)
